@@ -9,7 +9,7 @@ async function main() {
             title: '計算する生命',
             url: 'https://www.shinchosha.co.jp/book/339652/',
             purchasedDate: '購入日2022年05月12日',
-            // purchasedAt: new Date('2022-05-12T18:35:00')
+            purchasedAt: new Date()
         }
     });
     console.log(post);
